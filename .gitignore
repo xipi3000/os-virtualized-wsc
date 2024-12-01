@@ -1,0 +1,7 @@
+Tiltfile
+docker-compose-hash.yml
+docker-compose-macvlan.yml
+docker-compose-web.yml
+docker-composer-redis.yml
+sudo
+tailscale_var_lib/*
